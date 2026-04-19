@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<suite name="Test Suite">
+    <test name="Navigation Tests">
+        <classes>
+            <class name="com.bank.tests.HomePageTest"/>
+        </classes>
+    </test>
+</suite>
